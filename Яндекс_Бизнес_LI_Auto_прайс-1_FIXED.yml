@@ -1,0 +1,4083 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-09-09 00:00">
+  <shop>
+    <name>LI Auto Запчасти</name>
+    <company>LI Auto Запчасти</company>
+    <categories>
+      <category id="1">Кузовные детали</category>
+      <category id="2">Запчасти Li Auto</category>
+      <category id="3">Электрика и электроника</category>
+      <category id="4">Система охлаждения и кондиционирования</category>
+      <category id="5">Стекла и зеркала</category>
+      <category id="6">Двигатель и агрегаты</category>
+      <category id="7">Салон</category>
+      <category id="8">Оптика и освещение</category>
+      <category id="9">Подвеска и тормозная система</category>
+    </categories>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <offers>
+      <offer id="1">
+        <name>Передний бампер Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>64040.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="2">
+        <name>Передний бампер Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>94084.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="3">
+        <name>Нижняя решетка переднего бампера Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>26090.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="4">
+        <name>Нижняя решетка переднего бампера Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>27671.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="5">
+        <name>Декоративная планка нижней решетки, левая Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>5534.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="6">
+        <name>Декоративная планка нижней решетки, правая Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>5534.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="7">
+        <name>Нижняя облицовка переднего бампера Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="8">
+        <name>Нижняя облицовка переднего бампера Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>10278.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="9">
+        <name>Нижняя облицовка переднего ветрозащита Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="10">
+        <name>Нижняя облицовка переднего ветрозащита Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="11">
+        <name>Рамка переднего номерного знака Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="12">
+        <name>Заглушка буксировочного крюка переднего бампера Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="13">
+        <name>Декоративная планка переднего бампера, левая, длинная Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="14">
+        <name>Декоративная планка переднего бампера, правая, наружная, короткая Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1707.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="15">
+        <name>Декоративная планка переднего бампера, правая, внутренняя, длинная Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="16">
+        <name>Кронштейн переднего бампера, левый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="17">
+        <name>Кронштейн переднего бампера, правый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="18">
+        <name>Кронштейн переднего бампера, левый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="19">
+        <name>Кронштейн переднего бампера, правый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="20">
+        <name>Жалюзи с электроприводом Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>12650</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="21">
+        <name>Кронштейн фары, левый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="22">
+        <name>Кронштейн фары, правый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="23">
+        <name>Кронштейн фары, левый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="24">
+        <name>Кронштейн фары, правый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="25">
+        <name>Рама радиатора Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>33206.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="26">
+        <name>Рама радиатора Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>33206.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="27">
+        <name>Нижняя защита радиатора Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>7906.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="28">
+        <name>Нижняя защита радиатора Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>10278.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="29">
+        <name>Нижняя передняя защита радиатора, модель 2024 года Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>11859.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="30">
+        <name>Нижняя передняя защита радиатора, модель 2024 года Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>11859.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="31">
+        <name>Нижняя задняя защита радиатора, модель 2024 года Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>11859.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="32">
+        <name>Нижний кронштейн радиатора Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>7906.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="33">
+        <name>Нижний кронштейн радиатора Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>12650</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="34">
+        <name>Воздушный дефлектор радиатора Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>7115.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="35">
+        <name>Воздушный дефлектор интеркулера, левый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="36">
+        <name>Воздушный дефлектор интеркулера, правый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="37">
+        <name>Верхняя защита радиатора Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>11859.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="38">
+        <name>Крышка моторного отсека, левая Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>6166.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="39">
+        <name>Крышка моторного отсека, правая Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>6166.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="40">
+        <name>Верхняя защита радиатора Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="41">
+        <name>Крышка моторного отсека, левая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4743.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="42">
+        <name>Крышка моторного отсека, правая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4743.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="43">
+        <name>Декоративная панель двигателя Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>23718.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="44">
+        <name>Теплоизоляционная прокладка капота Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>6166.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="45">
+        <name>Теплоизоляционная прокладка капота Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>6166.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="46">
+        <name>Нижняя защита углеводородного адсорбера Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>6957.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="47">
+        <name>Нижняя защита углеводородного адсорбера Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>6957.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="48">
+        <name>Нижняя защита углеводородного адсорбера Li Auto L8 L9 24款</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="49">
+        <name>Защита крыла, левая Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="50">
+        <name>Защита крыла, правая Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="51">
+        <name>Защита крыла, левая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="52">
+        <name>Защита крыла, правая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="53">
+        <name>Декоративная крышка переднего крыла, левая, с большим отверстием Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2055.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="54">
+        <name>Декоративная крышка переднего крыла, правая, с большим отверстием Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2055.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="55">
+        <name>Декоративная крышка переднего крыла, левая, с большим отверстием Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2055.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="56">
+        <name>Декоративная крышка переднего крыла, правая, с большим отверстием Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2055.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="57">
+        <name>Подкрылок переднего крыла, левый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>8222.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="58">
+        <name>Подкрылок переднего крыла, правый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>8222.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="59">
+        <name>Подкрылок переднего крыла, левый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>8222.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="60">
+        <name>Подкрылок переднего крыла, правый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>8222.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="61">
+        <name>Подкрылок заднего крыла, левый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9013.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="62">
+        <name>Подкрылок заднего крыла, правый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9013.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="63">
+        <name>Подкрылок заднего крыла, левый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9013.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="64">
+        <name>Подкрылок заднего крыла, правый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9013.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="65">
+        <name>Кронштейн крыла, большой, левый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="66">
+        <name>Кронштейн крыла 3, левый/правый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="67">
+        <name>Кронштейн крыла, большой, правый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="68">
+        <name>Кронштейн крыла 2, левый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="69">
+        <name>Кронштейн крыла 2, правый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="70">
+        <name>Кронштейн крыла 4, левый/правый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="71">
+        <name>Кронштейн крыла 1, большой, левый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="72">
+        <name>Кронштейн крыла 2, левый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="73">
+        <name>Кронштейн крыла 1, большой, правый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="74">
+        <name>Кронштейн крыла 2, правый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="75">
+        <name>Кронштейн крыла, левый/правый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="76">
+        <name>Кронштейн крыла 3, левый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="77">
+        <name>Арка колеса переднего, левый, неокрашенный Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>6483.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="78">
+        <name>Арка колеса переднего, правый, неокрашенный Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>6483.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="79">
+        <name>Арка колеса заднего, левый, окрашенный Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>6957.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="80">
+        <name>Арка колеса заднего, правый, окрашенный Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>6957.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="81">
+        <name>Арка колеса переднего, левый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="82">
+        <name>Арка колеса переднего, правый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="83">
+        <name>Арка колеса задняя, левая, короткая на двери Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4111.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="84">
+        <name>Арка колеса задняя, правая, короткая на двери Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4111.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="85">
+        <name>Арка колеса задняя, левая, на крыле Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>7115.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="86">
+        <name>Арка колеса задняя, правая, на крыле Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>7115.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="87">
+        <name>Наружная облицовка задней двери Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>26090.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="88">
+        <name>Наружная облицовка задней двери Li Auto L7 24款</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>18975</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="89">
+        <name>Корпус зеркала заднего вида, левый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="90">
+        <name>Корпус зеркала заднего вида, правый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="91">
+        <name>Кронштейн интеркулера, левый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="92">
+        <name>Кронштейн интеркулера, правый, алюминиевый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>4743.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="93">
+        <name>Выпускной патрубок интеркулера 1 (универсальный для левого и правого) Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="94">
+        <name>Выпускной патрубок интеркулера 2, прямой Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>4111.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="95">
+        <name>Выпускной патрубок интеркулера 4 Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>2213.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="96">
+        <name>Впускной патрубок интеркулера 1 Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>4111.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="97">
+        <name>Впускной патрубок интеркулера 3 Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>2213.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="98">
+        <name>Выпускной патрубок интеркулера 6 Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>2213.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="99">
+        <name>Выпускной патрубок интеркулера 8 Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>2055.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="100">
+        <name>Комплект впускных патрубков интеркулера Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="101">
+        <name>Комплект выпускных патрубков интеркулера 2 Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="102">
+        <name>Комплект выпускных патрубков интеркулера 3 Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="103">
+        <name>Комплект воздушного фильтра Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>6</categoryId>
+        <price>7115.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="104">
+        <name>Труба переднего электродвигателя 1 Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>7906.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="105">
+        <name>Впускной патрубок водяного насоса Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>4111.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="106">
+        <name>Передний миллиметровый радар Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>14705.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="107">
+        <name>Бак для омывающей жидкости стеклоочистителя Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>7906.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="108">
+        <name>Бак для омывающей жидкости стеклоочистителя Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>7906.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="109">
+        <name>Дополнительный расширительный бак, левый передний Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>6325</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="110">
+        <name>Защита крюка капота Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="111">
+        <name>Замок капота, короткий палец Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="112">
+        <name>Замок капота, длинный палец Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="113">
+        <name>Стойка капота, Л/П Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="114">
+        <name>Стойка капота, Л/П Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="115">
+        <name>Замок капота, левый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="116">
+        <name>Замок капота, правый, с проводом Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3636.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="117">
+        <name>Петля капота, левая Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3004.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="118">
+        <name>Петля капота, правая Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3004.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="119">
+        <name>Петля капота, левая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3004.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="120">
+        <name>Петля капота, правая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3004.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="121">
+        <name>Наружная ручка передней двери, левая Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>10120</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="122">
+        <name>Наружная ручка передней двери, правая Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>10120</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="123">
+        <name>Наружная ручка задней двери, левая Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>10120</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="124">
+        <name>Наружная ручка задней door, правая Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>7</categoryId>
+        <price>10120</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="125">
+        <name>Наружная ручка передней двери, левая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>10120</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="126">
+        <name>Наружная ручка передней двери, правая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>10120</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="127">
+        <name>Наружная ручка задней двери, левая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>10594.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="128">
+        <name>Наружная ручка задней двери, правая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>10594.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="129">
+        <name>Крышка наружной ручки передней двери, левая Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2371.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="130">
+        <name>Крышка наружной ручки передней двери, правая Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2371.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="131">
+        <name>Комплект замка передней двери, левый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>17868.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="132">
+        <name>Комплект замка передней двери, правый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>17868.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="133">
+        <name>Комплект замка задней двери, левый Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>17869.39</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="134">
+        <name>Комплект замка задней двери, правый Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>17869.39</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="135">
+        <name>Комплект замка передней двери, левый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>11005.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="136">
+        <name>Комплект замка передней двери, правый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>11005.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="137">
+        <name>Комплект замка задней двери, левый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>11005.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="138">
+        <name>Комплект замка задней двери, правый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>11005.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="139">
+        <name>Уплотнительная лента для кольцевой светодиодной лампы Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="140">
+        <name>Уплотнительная лента моторного отсека, левая Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>6</categoryId>
+        <price>2846.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="141">
+        <name>Уплотнительная лента моторного отсека, правая Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>6</categoryId>
+        <price>2846.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="142">
+        <name>Уплотнительная лента моторного отсека, задняя Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>6</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="143">
+        <name>Уплотнительная лента для кольцевой светодиодной лампы Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="144">
+        <name>Уплотнительная лента моторного отсека, левая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>6</categoryId>
+        <price>2846.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="145">
+        <name>Уплотнительная лента моторного отсека, правая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>6</categoryId>
+        <price>2846.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="146">
+        <name>Уплотнительная лента моторного отсека, задняя Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>6</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="147">
+        <name>Уплотнительная лента арки колеса задней двери, левая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="148">
+        <name>Уплотнительная лента арки колеса задней двери, правая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="149">
+        <name>Наружное уплотнение переднего стекла двери, левое Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4585.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="150">
+        <name>Наружное уплотнение переднего стекла двери, правое Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4585.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="151">
+        <name>Наружное уплотнение заднего стекла двери, левое Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4822.18</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="152">
+        <name>Наружное уплотнение заднего стекла двери, правое Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4822.18</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="153">
+        <name>Наружное уплотнение переднего стекла двери, левое Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>8538.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="154">
+        <name>Наружное уплотнение переднего стекла двери, правое Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>8538.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="155">
+        <name>Наружное уплотнение заднего стекла двери, левое Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>8696.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="156">
+        <name>Наружное уплотнение заднего стекла двери, правое Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>8696.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="157">
+        <name>Наружная облицовка проема передней двери, левая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="158">
+        <name>Наружная облицовка проема передней двери, правая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="159">
+        <name>Нижняя облицовка передней двери, левая Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>7590</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="160">
+        <name>Нижняя облицовка передней двери, правая Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>7590</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="161">
+        <name>Нижняя облицовка передней двери, левая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>7590</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="162">
+        <name>Нижняя облицовка передней двери, правая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>7590</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="163">
+        <name>Нижняя облицовка задней двери, левая Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>7590</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="164">
+        <name>Нижняя облицовка задней двери, правая Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>7590</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="165">
+        <name>Нижняя облицовка задней двери, левая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>7590</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="166">
+        <name>Нижняя облицовка задней двери, правая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>7590</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="167">
+        <name>Крышка горловины топливного бака, левая Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2924.68</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="168">
+        <name>Крышка зарядного порта, правая Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2924.68</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="169">
+        <name>Основание горловины топливного бака Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>5376.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="170">
+        <name>Крышка горловины топливного бака Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2924.68</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="171">
+        <name>Втулка стабилизатора передняя Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>1185.31</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="172">
+        <name>Втулка стабилизатора задняя Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>1185.31</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="173">
+        <name>Задний бампер Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>66412.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="174">
+        <name>Задний бампер Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>75900</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="175">
+        <name>Задний бампер Li Auto L7 24款</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>75900</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="176">
+        <name>Нижняя облицовка заднего бампера Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="177">
+        <name>Нижняя облицовка заднего бампера, модель 2023 года Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>11859.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="178">
+        <name>Нижняя облицовка заднего бампера, модель 2024 года Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>7115.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="179">
+        <name>Заглушка буксировочного крюка заднего бампера Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1185.31</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="180">
+        <name>Заглушка буксировочного крюка заднего бампера Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1581.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="181">
+        <name>Облицовка порога задней двери Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>6008.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="182">
+        <name>Кронштейн порога задней двери Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>5376.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="183">
+        <name>Стойка задней двери, Л/П Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>11859.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="184">
+        <name>Стойка задней двери, Л/П Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="185">
+        <name>Замок задней двери Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>6957.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="186">
+        <name>Верхняя петля задней двери, Л/П Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="187">
+        <name>Верхняя петля задней двери, Л/П Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="188">
+        <name>Комплект рычага и лопасти заднего стеклоочистителя Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>2846.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="189">
+        <name>Втулка переднего стабилизатора Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>2846.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="190">
+        <name>Большая втулка заднего поворотного кулака Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>2846.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="191">
+        <name>Малая втулка заднего поворотного кулака Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>3004.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="192">
+        <name>Кронштейн заднего бампера, левый, длинный Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="193">
+        <name>Кронштейн заднего бампера, правый, длинный Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="194">
+        <name>Кронштейн заднего бампера, левый, малый Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="195">
+        <name>Кронштейн заднего бампера, правый, малый Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="196">
+        <name>Центральный кронштейн заднего бампера Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="197">
+        <name>Кронштейн заднего бампера, левый, нижний большой Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="198">
+        <name>Кронштейн заднего бампера, правый, нижний большой Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="199">
+        <name>Кронштейн заднего бампера, длинный, левый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="200">
+        <name>Kронштейн заднего бампера, длинный, правый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="201">
+        <name>Кронштейн заднего бампера, левый, малый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="202">
+        <name>Кронштейн заднего бампера, правый, малый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="203">
+        <name>Кронштейн заднего бампера, левый под задним светом Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="204">
+        <name>Кронштейн заднего бампера, правый под задним светом Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="205">
+        <name>Центральный кронштейн заднего бампера Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4111.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="206">
+        <name>Кронштейн заднего бампера, левый, нижний большой Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4427.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="207">
+        <name>Кронштейн заднего бампера, правый, нижний большой Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4427.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="208">
+        <name>Капот Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>80643.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="209">
+        <name>Переднее крыло, левое Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>25300</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="210">
+        <name>Переднее крыло, правое Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>25300</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="211">
+        <name>Передняя дверь, левая Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>104362.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="212">
+        <name>Передняя дверь, правая Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>104362.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="213">
+        <name>Задняя дверь, левая Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>104362.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="214">
+        <name>Задняя дверь, правая Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>104362.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="215">
+        <name>Задняя дверь Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>104362.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="216">
+        <name>Капот Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>83806.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="217">
+        <name>Переднее крыло, левое Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>29253.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="218">
+        <name>Переднее крыло, правое Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>29253.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="219">
+        <name>Передняя дверь, левая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>104362.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="220">
+        <name>Передняя дверь, правая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>104362.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="221">
+        <name>Задняя дверь, левая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>104362.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="222">
+        <name>Задняя дверь, правая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>104362.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="223">
+        <name>Задняя дверь Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>96456.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="224">
+        <name>Интеркулер, левый, толщина 64 мм Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>21346.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="225">
+        <name>Интеркулер, правый, толщина 64 мм Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>21346.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="226">
+        <name>Радиатор Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>12650</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="227">
+        <name>Радиатор Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>12650</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="228">
+        <name>Датчик температуры охлаждающей жидкости (на радиаторе) Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>2846.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="229">
+        <name>Радиатор электродвигателя, верхний Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="230">
+        <name>Радиатор электродвигателя, нижний Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="231">
+        <name>Радиатор электродвигателя, верхний Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="232">
+        <name>Радиатор электродвигателя, нижний Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="233">
+        <name>Конденсатор Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>13440.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="234">
+        <name>Конденсатор Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>13440.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="235">
+        <name>Электрический вентилятор Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>24509.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="236">
+        <name>Электрический вентилятор Li Auto L7 L8 L9 24款</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>36368.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="237">
+        <name>Кольцевая светодиодная лампа, без указателя поворота Li Auto L9高配 L8 高配</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>148637.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="238">
+        <name>Кольцевая светодиодная лампа, без указателя поворота Li Auto L7 高配</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>148637.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="239">
+        <name>Левая передняя фара Li Auto L8 高配, L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>41112.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="240">
+        <name>Правая передняя фара Li Auto L8 高配, L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>41112.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="241">
+        <name>Указатель поворота, левый Li Auto L9高配 L8 高配</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>23718.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="242">
+        <name>Указатель поворота, правый Li Auto L9高配 L8 高配</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>23718.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="243">
+        <name>Указатель поворота, левый Li Auto L7高配</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>23718.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="244">
+        <name>Указатель поворота, правый Li Auto L7高配</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>23718.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="245">
+        <name>Левая передняя фара, высокая комплектация, новая модель Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>115431.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="246">
+        <name>Правая передняя фара, высокая комплектация, новая модель Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>115431.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="247">
+        <name>Наружный задний свет, левый Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>30043.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="248">
+        <name>Наружный задний свет, правый Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>30043.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="249">
+        <name>Наружный задний свет, левый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>30043.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="250">
+        <name>Наружный задний свет, правый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>30043.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="251">
+        <name>Центральный задний свет, высокая комплектация Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>80643.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="252">
+        <name>Центральный задний свет, высокая комплектация Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>80643.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="253">
+        <name>Центральный задний свет, высокая комплектация, мод. 2024 Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>80643.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="254">
+        <name>Верхний стоп-сигнал Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>11859.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="255">
+        <name>Свет заднего бампера, левый Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="256">
+        <name>Свет заднего бампера, правый Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="257">
+        <name>Свет заднего бампера, левый Li Auto L7 23款</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="258">
+        <name>Свет заднего бампера, правый Li Auto L7 23款</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="259">
+        <name>Свет заднего бампера, левый Li Auto L7 24款</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="260">
+        <name>Свет заднего бампера, правый Li Auto L7 24款</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="261">
+        <name>Левое зеркало заднего вида, мод. 2024 Li Auto L9 高配</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>55343.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="262">
+        <name>Правое зеркало заднего вида, мод. 2024 Li Auto L9 高配</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>55343.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="263">
+        <name>Левое зеркало заднего вида, мод. 2024 Li Auto L7 高配</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>55343.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="264">
+        <name>Правое зеркало заднего вида, мод. 2024 Li Auto L7 高配</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>55343.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="265">
+        <name>Амортизатор, левый, черный наконечник, двойная камера, мод. 2024 Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>56925</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="266">
+        <name>Амортизатор, правый, черный наконечник, двойная камера, мод. 2024 Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>56925</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="267">
+        <name>Внутренняя балка переднего бампера Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>21346.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="268">
+        <name>Головка лонжерона, левая Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4585.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="269">
+        <name>Головка лонжерона, правая Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4585.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="270">
+        <name>Кронштейн внутренней балки переднего бампера, левый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4585.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="271">
+        <name>Кронштейн внутренней балки переднего бампера, правый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4585.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="272">
+        <name>Верхняя поперечина радиатора Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="273">
+        <name>Комплект малой продольной балки Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>7115.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="274">
+        <name>Защитная поперечина переднего бампера Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4585.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="275">
+        <name>Передний мост Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>64831.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="276">
+        <name>Задний мост Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>113850</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="277">
+        <name>Передний полуось, левый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>19765.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="278">
+        <name>Передний полуось, правый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>26090.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="279">
+        <name>Задний полуось, левый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>19765.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="280">
+        <name>Задний полуось, правый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>26090.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="281">
+        <name>Комплект подвески, верхний левый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>11859.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="282">
+        <name>Комплект подвески, верхний правый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>11859.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="283">
+        <name>Комплект подвески, нижний левый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>28462.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="284">
+        <name>Комплект подвески, нижний правый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>28462.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="285">
+        <name>Прямой тяга задней нижней подвески Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>5376.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="286">
+        <name>Задний верхний рычаг, передний левый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>5850.63</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="287">
+        <name>Задний верхний рычаг, передний правый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>5850.63</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="288">
+        <name>Комплект подвески, задний левый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="289">
+        <name>Комплект подвески, задний правый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="290">
+        <name>Нижняя подвеска, задняя Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>8696.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="291">
+        <name>Рулевая тяга, задняя левая Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>5534.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="292">
+        <name>Рулевая тяга, задняя правая Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>5534.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="293">
+        <name>Соединение стабилизатора, заднее Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="294">
+        <name>Соединение стабилизатора, левое Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="295">
+        <name>Соединение стабилизатора, правое Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="296">
+        <name>Шаровой шарнир, внутренний Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="297">
+        <name>Шаровой шарнир, наружный левый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="298">
+        <name>Шаровой шарнир, наружный правый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="299">
+        <name>Кронштейн компрессора Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="300">
+        <name>Поворотный кулак, левый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>23718.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="301">
+        <name>Поворотный кулак, правый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>23718.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="302">
+        <name>Тормозные колодки передние Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>5376.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="303">
+        <name>Тормозные колодки задние Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>5060</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="304">
+        <name>Тормозные колодки передние Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>5376.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="305">
+        <name>Тормозные колодки задние Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>5060</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="306">
+        <name>Передний тормозной диск Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="307">
+        <name>Задний тормозной диск Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="308">
+        <name>Колпачок колеса, черный Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="309">
+        <name>Колпачок колеса, светлый Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="310">
+        <name>Декоративный колпачок стального диска Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>2055.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="311">
+        <name>Колесные диски передние и задние Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="312">
+        <name>Подушка крепления переднего электродвигателя, правая Li Auto L7 L8</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>5534.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="313">
+        <name>Подушка крепления переднего электродвигателя, задняя Li Auto L7 L8</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>5534.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="314">
+        <name>Внутренняя балка заднего бампера Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>15021.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="315">
+        <name>Внутренняя балка заднего бампера Li Auto L7 L8</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>15021.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="316">
+        <name>Подушка крепления заднего электродвигателя, правая Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>4427.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="317">
+        <name>Подушка крепления заднего электродвигателя, левая Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>4427.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="318">
+        <name>Подушка крепления заднего электродвигателя, задняя Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>4427.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="319">
+        <name>Подушка крепления переднего электродвигателя, правая Li Auto L6 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>10278.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="320">
+        <name>Воздушный фильтр Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>6</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="321">
+        <name>Фильтр салона Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>7</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="322">
+        <name>Фильтр салона Li Auto L6 L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>7</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="323">
+        <name>Главная подушка безопасности Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>28462.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="324">
+        <name>Пассажирская подушка безопасности Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>28462.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="325">
+        <name>Главная подушка безопасности Li Auto L7 L8</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>28462.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="326">
+        <name>Пассажирская подушка безопасности Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>28462.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="327">
+        <name>Боковая шторка безопасности, левая Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>22137.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="328">
+        <name>Боковая шторка безопасности, правая Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>22137.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="329">
+        <name>Боковая шторка безопасности, левая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>22137.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="330">
+        <name>Боковая шторка безопасности, правая Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>22137.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="331">
+        <name>Передний ремень безопасности, левый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>7</categoryId>
+        <price>20556.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="332">
+        <name>Передний ремень безопасности, правый Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>7</categoryId>
+        <price>20556.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="333">
+        <name>Передний ремень безопасности, левый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>7</categoryId>
+        <price>20556.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="334">
+        <name>Передний ремень безопасности, правый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>7</categoryId>
+        <price>20556.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="335">
+        <name>Радар, внутренний Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="336">
+        <name>Радар, наружный Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="337">
+        <name>Рада Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>4111.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="338">
+        <name>Датчик давления в шинах Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>4111.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="339">
+        <name>Проводка переднего бампера, мод. 2024 Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="340">
+        <name>Проводка переднего бампера, мод. 2025 Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="341">
+        <name>Передняя камера Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>22137.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="342">
+        <name>Передняя камера Li Auto L7 24款</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>15812.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="343">
+        <name>Камера заднего ветрозащита Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>15812.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="344">
+        <name>Электродвигатель стеклоочистителя передний Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>17393.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="345">
+        <name>Комплект многофункционального переключателя руля Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>10278.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="346">
+        <name>Кронштейн регулировки фары Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="347">
+        <name>Малый кронштейн внутренней балки переднего бампера Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="348">
+        <name>Кронштейн упора капота Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="349">
+        <name>Знак капота Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="350">
+        <name>Знак на задней двери Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="351">
+        <name>Знак на задней двери (Li Auto) Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="352">
+        <name>Знак на задней двери (L7) Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="353">
+        <name>Знак на задней двери (L9) Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="354">
+        <name>Внутренняя ручка передней двери, левая Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="355">
+        <name>Внутренняя ручка передней двери, правая Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="356">
+        <name>Водяной насос отопителя Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>6</categoryId>
+        <price>10278.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="357">
+        <name>Электрический водяной насос, насос охлаждения аккумулятора Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>10278.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="358">
+        <name>Пара звуковых сигналов высокий и низкий тон Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="359">
+        <name>Заглушка буксировочного крюка заднего бампера Li Auto L7 24款</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="360">
+        <name>Спойлер Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>20556.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="361">
+        <name>Педаль акселератора Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="362">
+        <name>Свет зеркала заднего вида, левый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="363">
+        <name>Свет зеркала заднего вида, правый Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="364">
+        <name>Резиновая прокладка радиатора, верхняя Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="365">
+        <name>Резиновая прокладка радиатора, нижняя Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="366">
+        <name>Обратный шланг дополнительного расширительного бака, левый Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="367">
+        <name>Датчик наружной температуры Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="368">
+        <name>Ступица переднего колеса / ступица заднего колеса Li Auto L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="369">
+        <name>Кронштейн нижней защиты радиатора Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>7115.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="370">
+        <name>Выходной шланг аккумуляторного блока 2 Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>7115.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="371">
+        <name>Датчик высоты кузова (передний) Li Auto L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>5534.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="372">
+        <name>Передний бампер Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>35578.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="373">
+        <name>Капот Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>46646.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="374">
+        <name>Крыло, левое Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>27671.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="375">
+        <name>Крыло, правое Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>27671.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="376">
+        <name>Передняя дверь, левая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>57715.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="377">
+        <name>Передняя дверь, правая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>57715.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="378">
+        <name>Задняя дверь, левая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>57715.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="379">
+        <name>Задняя дверь, правая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>57715.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="380">
+        <name>Задняя дверь Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>75900</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="381">
+        <name>Задний бампер Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>36368.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="382">
+        <name>Подкрылок крыла, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="383">
+        <name>Подкрылок крыла, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="384">
+        <name>Подкрылок заднего крыла, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="385">
+        <name>Подкрылок заднего крыла, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="386">
+        <name>Кронштейн крыла, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2608.43</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="387">
+        <name>Кронштейн крыла, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2608.43</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="388">
+        <name>Воздушный дефлектор радиатора Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>7590</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="389">
+        <name>Нижняя решетка переднего бампера Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9171.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="390">
+        <name>Декоративная планка переднего бампера, левая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="391">
+        <name>Декоративная планка переднего бампера, правая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="392">
+        <name>Декоративная крышка переднего бампера, левая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="393">
+        <name>Декоративная крышка переднего бампера, правая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="394">
+        <name>Рамка переднего номерного знака Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>2213.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="395">
+        <name>Кронштейн переднего бампера, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="396">
+        <name>Кронштейн переднего бампера, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1265</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="397">
+        <name>Кронштейн фары, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>2055.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="398">
+        <name>Кронштейн фары, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>2055.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="399">
+        <name>Уголок крыла, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="400">
+        <name>Уголок крыла, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="401">
+        <name>Нижняя защита радиатора, передняя Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>7748.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="402">
+        <name>Нижняя защита радиатора, задняя Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>7431.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="403">
+        <name>Нижняя защита углеводородного адсорбера Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>7115.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="404">
+        <name>Защита моторного отсека, средне-большая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>6</categoryId>
+        <price>9329.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="405">
+        <name>Защита моторного отсека, левая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>6</categoryId>
+        <price>6166.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="406">
+        <name>Защита моторного отсека, правая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>6</categoryId>
+        <price>6166.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="407">
+        <name>Декоративная крышка двигателя Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9329.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="408">
+        <name>Рама радиатора Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>30834.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="409">
+        <name>Жалюзи без электропривода Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="410">
+        <name>Передняя камера Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>18975</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="411">
+        <name>Камера переднего крыла, левая, Pro Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>18975</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="412">
+        <name>Камера переднего крыла, правая, Pro Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>18975</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="413">
+        <name>Передний мост Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>60087.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="414">
+        <name>Крышка электрического вентилятора Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>12650</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="415">
+        <name>Нижняя облицовка переднего бампера Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>7906.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="416">
+        <name>Нижняя облицовка заднего бампера Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="417">
+        <name>Комплект подвески, нижний левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>28462.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="418">
+        <name>Комплект подвески, нижний правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>28462.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="419">
+        <name>Соединение стабилизатора, переднее левое Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>5060</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="420">
+        <name>Соединение стабилизатора, переднее правое Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>5060</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="421">
+        <name>Соединение стабилизатора, заднее левое Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>4743.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="422">
+        <name>Соединение стабилизатора, заднее правое Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>4743.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="423">
+        <name>Наружный шаровой шарнир, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>5376.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="424">
+        <name>Наружный шаровой шарнир, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>5376.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="425">
+        <name>Внутренний шаровой шарнир Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>5376.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="426">
+        <name>Передний амортизатор, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>36368.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="427">
+        <name>Передний амортизатор, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>36368.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="428">
+        <name>Задний амортизатор, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>33206.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="429">
+        <name>Задний амортизатор, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>33206.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="430">
+        <name>Поворотный кулак, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>29253.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="431">
+        <name>Поворотный кулак, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>29253.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="432">
+        <name>Проводка переднего бампера Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>11859.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="433">
+        <name>Внутренняя балка переднего бампера Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>26881.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="434">
+        <name>Внутренняя балка заднего бампера Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>23718.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="435">
+        <name>Передний полуось, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>22137.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="436">
+        <name>Передний полуось, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>23718.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="437">
+        <name>Задний полуось, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>23718.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="438">
+        <name>Задний полуось, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>22137.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="439">
+        <name>Кольцевая светодиодная лампа Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>107525</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="440">
+        <name>Фара, левая, высокая комплектация Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>91712.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="441">
+        <name>Фара, правая, высокая комплектация Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>8</categoryId>
+        <price>91712.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="442">
+        <name>Задний свет, наружный левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>26881.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="443">
+        <name>Задний свет, наружный правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>26881.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="444">
+        <name>Задний свет, центральный, высокая комплектация Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>61668.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="445">
+        <name>Интеркулер Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>17393.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="446">
+        <name>Радиатор электродвигателя Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>15812.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="447">
+        <name>Радиатор двигателя Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>15812.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="448">
+        <name>Конденсатор Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>15812.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="449">
+        <name>Свет заднего бампера, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2846.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="450">
+        <name>Свет заднего бампера, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2846.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="451">
+        <name>Крышка зарядного порта, правая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="452">
+        <name>Зеркало заднего вида, левое, высокая комплектация Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>64831.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="453">
+        <name>Зеркало заднего вида, правое, высокая комплектация Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>64831.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="454">
+        <name>Декоративная крышка крыла, левая, с большим отверстием Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="455">
+        <name>Декоративная крышка крыла, правая, с большим отверстием Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="456">
+        <name>Декоративный колпачок стального диска Li Auto L6 L7</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="457">
+        <name>Передние тормозные колодки Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>5534.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="458">
+        <name>Задние тормозные колодки Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>5218.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="459">
+        <name>Центральный кронштейн заднего бампера Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>6957.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="460">
+        <name>Кронштейн заднего бампера, левый боковой Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="461">
+        <name>Кронштейн заднего бампера, правый боковой Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="462">
+        <name>Кронштейн заднего бампера, левый под задним светом Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="463">
+        <name>Кронштейн заднего бампера, правый под задним светом Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="464">
+        <name>Кронштейн заднего бампера, левый нижний большой Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>7115.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="465">
+        <name>Кронштейн заднего бампера, правый нижний большой Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>7115.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="466">
+        <name>Кронштейн крышки багажника Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>5376.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="467">
+        <name>Знак L6 Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="468">
+        <name>Знак капота Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="469">
+        <name>Знак Li Auto Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="470">
+        <name>Нижняя облицовка переднего стекла Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="471">
+        <name>Нижняя облицовка передней двери, левая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>8696.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="472">
+        <name>Нижняя облицовка передней двери, правая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>8696.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="473">
+        <name>Нижняя облицовка задней двери, левая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>8696.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="474">
+        <name>Нижняя облицовка задней двери, правая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>8696.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="475">
+        <name>Стойка задней двери, левая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>18975</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="476">
+        <name>Замок капота Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>6166.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="477">
+        <name>Кронштейн замка капота Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="478">
+        <name>Петля капота, правая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4111.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="479">
+        <name>Петля капота, левая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4111.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="480">
+        <name>Кронштейн упора капота Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="481">
+        <name>Кронштейн упора капота, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="482">
+        <name>Кронштейн упора капота, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="483">
+        <name>Теплоизоляционная прокладка капота Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>7906.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="484">
+        <name>Спойлер Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>22137.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="485">
+        <name>Защита топливного бака снизу Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>5850.63</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="486">
+        <name>Комплект бака для омывающей жидкости Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>5850.63</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="487">
+        <name>Рычаг с лопастью стеклоочистителя, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>4585.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="488">
+        <name>Рычаг с лопастью стеклоочистителя, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>4585.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="489">
+        <name>Радар Li Auto L6 （24款L7）</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>4585.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="490">
+        <name>Заглушка буксировочного крюка переднего бампера Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="491">
+        <name>Верхняя поперечина радиатора Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>10120</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="492">
+        <name>Крышка ручки, передняя левая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2340.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="493">
+        <name>Крышка ручки, передняя правая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2340.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="494">
+        <name>Крышка ручки, задняя левая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2340.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="495">
+        <name>Крышка ручки, задняя правая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>2340.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="496">
+        <name>Внутренняя ручка, левая (передняя и задняя) Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>7</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="497">
+        <name>Внутренняя ручка, правая (передняя и задняя) Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>7</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="498">
+        <name>Наружная ручка передней двери, левая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="499">
+        <name>Наружная ручка передней двери, правая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="500">
+        <name>Наружная ручка задней двери, левая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="501">
+        <name>Наружная ручка задней двери, правая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="502">
+        <name>Наружное уплотнение передней двери, левое Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>5376.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="503">
+        <name>Наружное уплотнение передней двери, правое Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>5376.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="504">
+        <name>Наружное уплотнение задней двери, левое Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>5376.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="505">
+        <name>Наружное уплотнение задней двери, правое Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>5376.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="506">
+        <name>Уплотнительная лента задней двери, Л/П Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4111.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="507">
+        <name>Уплотнительная лента арки колеса задней двери, левая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4111.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="508">
+        <name>Уплотнительная лента арки колеса задней двери, правая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>4111.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="509">
+        <name>Передний верхний рычаг, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>11859.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="510">
+        <name>Передний верхний рычаг, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>11859.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="511">
+        <name>Задний верхний рычаг, задний, Л/П Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>21346.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="512">
+        <name>Задняя рулевая тяга, левая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>10278.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="513">
+        <name>Задняя рулевая тяга, правая Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>10278.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="514">
+        <name>Задний верхний рычаг, передний, Л/П Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>20556.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="515">
+        <name>Верхний рычаг, задний, Л/П, регулируемый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>8696.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="516">
+        <name>Задняя рулевая тяга, Л/П, регулируемый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>6483.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="517">
+        <name>Верхний рычаг, передний, Л/П, регулируемый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>7906.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="518">
+        <name>Задняя продольная тяга, Л/П, регулируемый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>7906.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="519">
+        <name>Ступица переднего колеса / ступица заднего колеса Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="520">
+        <name>Замок задней двери Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>7431.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="521">
+        <name>Внутренняя балка переднего бампера, нижняя, малая продольная балка Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>10278.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="522">
+        <name>Кронштейн внутренней балки переднего бампера, малый левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="523">
+        <name>Кронштейн внутренней балки переднего бампера, малый центральный Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="524">
+        <name>Кронштейн внутренней балки переднего бампера, малый правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>1423.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="525">
+        <name>Свет зеркала заднего вида, левый, высокая комплектация, 4 контакта Li Auto L6 MAX</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>6483.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="526">
+        <name>Свет зеркала заднего вида, правый, высокая комплектация, 4 контакта Li Auto L6 MAX</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>6483.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="527">
+        <name>Стекло зеркала заднего вида, левое Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>8538.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="528">
+        <name>Стекло зеркала заднего вида, правое Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>8538.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="529">
+        <name>Корпус зеркала заднего вида, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>6325</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="530">
+        <name>Корпус зеркала заднего вида, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>5</categoryId>
+        <price>6325</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="531">
+        <name>Передний ремень безопасности, левый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>7</categoryId>
+        <price>11859.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="532">
+        <name>Передний ремень безопасности, правый Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>7</categoryId>
+        <price>11859.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="533">
+        <name>Главная подушка безопасности Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>26090.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="534">
+        <name>Пассажирская подушка безопасности Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>27671.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="535">
+        <name>Короткий входной шланг радиатора Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="536">
+        <name>Длинный входной шланг радиатора Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="537">
+        <name>Выходной шланг радиатора Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="538">
+        <name>Входной патрубок интеркулера Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="539">
+        <name>Выходной патрубок интеркулера Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="540">
+        <name>Выходной патрубок интеркулера 2 Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>3795</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="541">
+        <name>Трубка кондиционера, низкое давление №1 Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>7431.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="542">
+        <name>Трубка кондиционера, низкое давление №2 Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>7431.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="543">
+        <name>Трубка кондиционера, высокое давление с защитой Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>7431.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="544">
+        <name>Трубка — комплект труб приводного электродвигателя Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>7431.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="545">
+        <name>Трубка кондиционера, двойная трубка Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="546">
+        <name>Трубка кондиционера, двойная трубка 2 Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>11859.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="547">
+        <name>Комплект впускной трубы воздушного фильтра Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>6</categoryId>
+        <price>7431.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="548">
+        <name>Расширительный бак радиатора, правый Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>6166.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="549">
+        <name>Осушитель Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>9487.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="550">
+        <name>Датчик ABS Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>3320.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="551">
+        <name>Брызгозащитные щитки, комплект из 4 шт. Li Auto L6</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>5218.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="552">
+        <name>Брызгозащитные щитки, комплект из 4 шт. Li Auto L7 23款</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>5218.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="553">
+        <name>Брызгозащитные щитки, комплект из 4 шт. Li Auto L7 24款</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>5218.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="554">
+        <name>Брызгозащитные щитки, комплект из 4 шт. Li Auto L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>5218.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="555">
+        <name>Масляный фильтр Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>6</categoryId>
+        <price>1739.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="556">
+        <name>Свечи зажигания Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>2055.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="557">
+        <name>Впускной коллектор Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>15021.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="558">
+        <name>Поддон картера Li Auto L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>7906.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="559">
+        <name>Масляный радиатор Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>4</categoryId>
+        <price>22137.5</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="560">
+        <name>Крышка клапанной крышки Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>1</categoryId>
+        <price>12650</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="561">
+        <name>Комплект катушек зажигания Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>6166.88</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="562">
+        <name>Комплект датчика давления масла Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>5850.63</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="563">
+        <name>Комплект датчика положения распредвала Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>5534.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="564">
+        <name>Комплект датчика детонации Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>5534.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="565">
+        <name>Электромагнитный клапан углеводородного адсорбера Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>6483.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="566">
+        <name>Передний кислородный датчик Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>11859.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="567">
+        <name>Датчик высокого давления Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>7906.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="568">
+        <name>Переднее масляное уплотнение Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="569">
+        <name>Заднее масляное уплотнение Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>2846.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="570">
+        <name>Амортизационный шкив Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>9</categoryId>
+        <price>10278.12</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="571">
+        <name>Ремень ГРМ Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>7</categoryId>
+        <price>4585.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="572">
+        <name>Механический водяной насос Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>6</categoryId>
+        <price>10910.62</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="573">
+        <name>Шкив водяного насоса Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>6</categoryId>
+        <price>5376.25</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="574">
+        <name>Комплект термостата Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>12650</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="575">
+        <name>Комплект электронной дроссельной заслонки Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>18975</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="576">
+        <name>Датчик температуры и давления впускного воздуха Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>5850.63</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="577">
+        <name>Электронный водяной насос Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>11068.75</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="578">
+        <name>Датчик температуры воды (на термостате) Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="579">
+        <name>Масляный щуп Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>2</categoryId>
+        <price>2530</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+      <offer id="580">
+        <name>Задний кислородный датчик Li Auto L6 L7 L8 L9</name>
+        <vendor>LI Auto</vendor>
+        <categoryId>3</categoryId>
+        <price>10594.38</price>
+        <currencyId>RUB</currencyId>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
